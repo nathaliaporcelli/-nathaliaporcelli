@@ -12,3 +12,18 @@ No momento, estou imersa em um bootcamp de desenvolvimento de software fullstack
 JJavascript, HTML, CSS, Python, Banco de Dados Relacional, SQL, Lógica de Programação, Orientação a Objeto, Flask, Django, Scrum, Design Thinking, Comunicação,Trabalho em Equipe.
 
 
+Projetos relavantes:
+
+React + Vite 
+Consumo da API do Rick and Morty
+
+Neste projeto, tivemos contato com React e JavaScript para fazer o consumo de dados da API pública do Rick And Morty. Este foi  o resultado.
+https://nathaliaporcelli.github.io/ocean-frontend/
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Aplicação Web com Python, Flask, CSS, JavaScript, HTML e disponibilizada via imagem docker na GCP.
+
+https://python-app-game-u6x2xhmioa-uc.a.run.app/ 
+
+
