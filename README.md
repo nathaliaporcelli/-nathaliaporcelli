@@ -12,8 +12,7 @@ No momento, estou imersa em um bootcamp de desenvolvimento de software fullstack
 Javascript, HTML, CSS, Python, Banco de Dados Relacional, SQL, Lógica de Programação, Orientação a Objeto, Flask, Django, Scrum, Design Thinking, Comunicação,Trabalho em Equipe.
 
 
-![image](https://github.com/nathaliaporcelli/nathaliaporcelli/assets/57419374/84e8bb7e-b93a-4af0-9d69-d689a198fccf)
-Projetos relavantes:
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" /> Projetos relavantes:
 
 React + Vite 
 Consumo da API do Rick and Morty
