@@ -9,9 +9,10 @@ Na minha última jornada profissional, atuei como analista de produtos (Product 
 
 No momento, estou imersa em um bootcamp de desenvolvimento de software fullstack pela Escola Koru, em parceria com Ifood e Potência Tech. Neste curso, estou aprimorando minhas habilidades em linguagens de marcação e estilo, como HTML, CSS, e linguagens de programação como Python e JavaScript. Além disso, estou aprofundando-me em versionamento de código via GitHub.
 ## 🛠 Habilidades
-JJavascript, HTML, CSS, Python, Banco de Dados Relacional, SQL, Lógica de Programação, Orientação a Objeto, Flask, Django, Scrum, Design Thinking, Comunicação,Trabalho em Equipe.
+Javascript, HTML, CSS, Python, Banco de Dados Relacional, SQL, Lógica de Programação, Orientação a Objeto, Flask, Django, Scrum, Design Thinking, Comunicação,Trabalho em Equipe.
 
 
+![image](https://github.com/nathaliaporcelli/nathaliaporcelli/assets/57419374/84e8bb7e-b93a-4af0-9d69-d689a198fccf)
 Projetos relavantes:
 
 React + Vite 
